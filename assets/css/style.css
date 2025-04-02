@@ -286,6 +286,12 @@ footer {
       text-align: center;
     }
   }
+  .map {
+    iframe {
+      width: 600px;
+      height: 450px;
+    }
+  }
 }
 
 @media (max-width: 767px) {
